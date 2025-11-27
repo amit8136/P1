@@ -1,0 +1,5 @@
+{
+  "name": "Task_Manager1",
+  "description": "A smart task manager and calendar app powered by Gemini AI. Organize your schedule, receive intelligent task suggestions, and optimize your productivity with AI analysis.",
+  "requestFramePermissions": []
+}
